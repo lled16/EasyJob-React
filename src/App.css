@@ -1,0 +1,13 @@
+#root {
+    padding: 0;
+    display: flex;
+}
+
+.container-md {
+    max-width: 100% !important;
+}
+.rowCards{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}

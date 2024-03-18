@@ -1,0 +1,21 @@
+.filterContent {
+    position: sticky;
+    top: 0px;
+}
+
+.titleFilters{
+    padding-top: 25px;
+}
+
+.nameFilters{
+    display: flex;
+    justify-content: center !important;
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
+@media (max-width: 990) {
+    .filterZone {
+       display: none;
+    }
+}

@@ -1,0 +1,8 @@
+.rangePrice{
+    display: flex;
+    flex-direction: row;
+}
+
+.inputPrice{
+width: 40%;
+}
