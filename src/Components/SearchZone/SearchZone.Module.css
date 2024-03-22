@@ -12,11 +12,54 @@
 .colSearch {
     display: flex;
     justify-content: center;
-    width: 100vw;
+    width: 100vw !important;
+    padding-left: 25rem;
+    flex-direction: row !important;
+    padding-top: 25vh;
 }
 
 .inputSearch {
     width: 60rem !important;
     height: 5.5vh;
-    margin-top: 30vh;
+    right: 3rem;
+  
+}
+
+.buttonInputSearch{
+    width: 10rem !important;
+    height: 5.5vh;
+    background-color: #0e0e49 !important;
+    border: none !important;
+
+}
+
+
+.profileImage{
+    
+    width: 3.5rem;
+    color: white !important;
+    
+}
+.linkLogin{
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.linkLogin:hover{
+    color: white;
+    opacity: 0.5;
+}
+
+.colLogin{
+    display: flex;
+    padding-top: 2rem;
+    padding-right: 8rem !important;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content:center
+}
+
+.searchImg{
+    width: 30px;
 }

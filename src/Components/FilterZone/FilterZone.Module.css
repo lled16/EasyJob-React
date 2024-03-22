@@ -12,10 +12,12 @@
     justify-content: center !important;
     padding-bottom: 50px;
     padding-top: 25px;
+    font-size: 45px;
+    font-weight: bold;
 }
 
 @media (max-width: 990) {
     .filterZone {
-       display: none;
+       display: none !important;
     }
 }

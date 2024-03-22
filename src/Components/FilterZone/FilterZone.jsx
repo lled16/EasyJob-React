@@ -8,7 +8,7 @@ export default function FilterZone() {
         <Col className="filterZone" sm={2}>
             <div className="filterContent">
                 <Row>
-                    <h1 className="nameFilters">FILTROS</h1>
+                    <span className="nameFilters">FILTROS</span>
                 </Row>
                 <h5 className="titleFilters"> Área de atuação </h5>
                 <FilterAreaAtuation />

@@ -11,3 +11,9 @@
     justify-content: center;
     position: relative;
 }
+
+/* width */
+::-webkit-scrollbar {
+    width: 1px;
+  }
+  

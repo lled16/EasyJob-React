@@ -1,0 +1,71 @@
+.inputLogin {
+    width: 20rem !important;
+    height: 5.5vh;
+    margin-top: 5vh;
+}
+
+.rowPrincipal{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    flex-direction: column;
+    width: 100vw !important;
+    height: 60vh;
+    border-radius: 50px;
+}
+
+.colPrincipal{
+    display: flex;
+    border-radius: 25px;
+    background-color: #0e0e49;
+    width: 40rem;
+    height: 50rem !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.spanLogin{
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.linhaEspacamento{
+    height: 20vh;
+    display: flex;
+    justify-content: end;
+    width: 100vw !important;
+    padding-right: 25px;
+    padding-top: 25px;
+}
+
+.linhaEspacamento-2{
+    height: 20vh;
+    width: 100vw !important;
+}
+
+.colEspacamento-1{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+
+.buttonInputLogin{
+    margin-top: 5vh;
+    width: 10vw;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border: none;
+
+}
+
+.buttonInputLogin:hover{
+    background-color: white;
+    color:#0e0e49;
+
+}
+.homeImage{
+    width: 4rem; 
+}
