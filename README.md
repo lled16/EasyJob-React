@@ -1,8 +1,5 @@
-# React + Vite
+# EASY JOB
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Recriando um antigo projeto meu e de uns amigos, que consite em um site de empregos com layout moderno, contendo o cadastro de usuários, login, cadastro de cards( empregos ou serviços prestados), edição, exclusão e etc. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### A versão anterior foi feita em PHP, mas como hoje estou trabalhando com outras tecnologias, decidi utlizar das mesmas, como .NET  e REACTJS
